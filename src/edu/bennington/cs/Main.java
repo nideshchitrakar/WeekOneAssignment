@@ -28,16 +28,16 @@ public class Main {
         dog1.printType();
         dog1.encounterCat(cat1);
 
-        dog2.printAge();
-        dog2.printType();
-        dog2.encounterCat(cat2);
+        //dog2.printAge();
+        //dog2.printType();
+        //dog2.encounterCat(cat2);
 
         cat1.printAge();
         cat1.printColor();
         cat1.encounterDog(dog1);
 
-        cat2.printAge();
-        cat2.printColor();
-        cat2.encounterDog(dog2);
+        //cat2.printAge();
+        //cat2.printColor();
+        //cat2.encounterDog(dog2);
     }
 }
